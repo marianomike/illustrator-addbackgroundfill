@@ -1,7 +1,6 @@
-Add Background Fill Script for ILlustrator
+Add Background Fill Script for Illustrator
 ===============================================
 
-# illustrator-addbackgroundfill
 Script that adds a background fill to an artboard
 
 ![Add Background Fill](Screens/AddBackgroundFill.gif?raw=true "Add Background Fill")
